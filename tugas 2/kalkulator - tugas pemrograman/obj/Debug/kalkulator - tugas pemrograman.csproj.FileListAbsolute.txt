@@ -1,0 +1,7 @@
+D:\Visual Studio save\kalkulator - tugas pemrograman\kalkulator - tugas pemrograman\bin\Debug\kalkulator - tugas pemrograman.exe.config
+D:\Visual Studio save\kalkulator - tugas pemrograman\kalkulator - tugas pemrograman\bin\Debug\kalkulator - tugas pemrograman.exe
+D:\Visual Studio save\kalkulator - tugas pemrograman\kalkulator - tugas pemrograman\bin\Debug\kalkulator - tugas pemrograman.pdb
+D:\Visual Studio save\kalkulator - tugas pemrograman\kalkulator - tugas pemrograman\obj\Debug\kalkulator - tugas pemrograman.csproj.AssemblyReference.cache
+D:\Visual Studio save\kalkulator - tugas pemrograman\kalkulator - tugas pemrograman\obj\Debug\kalkulator - tugas pemrograman.csproj.CoreCompileInputs.cache
+D:\Visual Studio save\kalkulator - tugas pemrograman\kalkulator - tugas pemrograman\obj\Debug\kalkulator - tugas pemrograman.exe
+D:\Visual Studio save\kalkulator - tugas pemrograman\kalkulator - tugas pemrograman\obj\Debug\kalkulator - tugas pemrograman.pdb
